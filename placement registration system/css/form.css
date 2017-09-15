@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.regform{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #400000;
+	font-weight: 100;
+	border-top-style: groove;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	font-size: 24px;
+	font-style: oblique;
+}
+.textwidth{
+	width: inherit;
+	color: #F0F0F0;
+}
