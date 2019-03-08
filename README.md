@@ -1,2 +1,2 @@
 # Placement-Registration-System
-I was my collage project 
+This project was created as the part of my collage project.
